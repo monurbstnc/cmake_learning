@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/onur/onur_repos/cmake_repo/simple_cmake_example/main.c
+stdio.h
+/home/onur/onur_repos/cmake_repo/simple_cmake_example/stdio.h
+

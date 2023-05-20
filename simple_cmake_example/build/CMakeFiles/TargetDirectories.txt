@@ -1,0 +1,3 @@
+/home/onur/onur_repos/cmake_repo/simple_cmake_example/build/CMakeFiles/rebuild_cache.dir
+/home/onur/onur_repos/cmake_repo/simple_cmake_example/build/CMakeFiles/edit_cache.dir
+/home/onur/onur_repos/cmake_repo/simple_cmake_example/build/CMakeFiles/main.dir
