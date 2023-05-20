@@ -1,0 +1,10 @@
+/home/onur/onur_repos/cmake_repo/cmake_library_example/build/CMakeFiles/rebuild_cache.dir
+/home/onur/onur_repos/cmake_repo/cmake_library_example/build/CMakeFiles/edit_cache.dir
+/home/onur/onur_repos/cmake_repo/cmake_library_example/build/include/CMakeFiles/rebuild_cache.dir
+/home/onur/onur_repos/cmake_repo/cmake_library_example/build/include/CMakeFiles/edit_cache.dir
+/home/onur/onur_repos/cmake_repo/cmake_library_example/build/src/CMakeFiles/rebuild_cache.dir
+/home/onur/onur_repos/cmake_repo/cmake_library_example/build/src/CMakeFiles/edit_cache.dir
+/home/onur/onur_repos/cmake_repo/cmake_library_example/build/src/CMakeFiles/adder.dir
+/home/onur/onur_repos/cmake_repo/cmake_library_example/build/examples/CMakeFiles/rebuild_cache.dir
+/home/onur/onur_repos/cmake_repo/cmake_library_example/build/examples/CMakeFiles/edit_cache.dir
+/home/onur/onur_repos/cmake_repo/cmake_library_example/build/examples/CMakeFiles/main.dir

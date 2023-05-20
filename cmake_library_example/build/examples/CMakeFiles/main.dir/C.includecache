@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/adder/adder.h
+
+/home/onur/onur_repos/cmake_repo/cmake_library_example/examples/main.c
+stdio.h
+/home/onur/onur_repos/cmake_repo/cmake_library_example/examples/stdio.h
+adder/adder.h
+/home/onur/onur_repos/cmake_repo/cmake_library_example/examples/adder/adder.h
+
